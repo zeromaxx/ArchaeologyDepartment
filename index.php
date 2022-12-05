@@ -34,11 +34,11 @@
             <input required type="text" name="name">
             <label for="lastname">Επώνυμο</label>
             <input required type="text" name="lastname">
-            <label for=" ephorate">Αρμόδια Εφορεία Αρχαιοτήτων</label>
+            <label for="ephorate">Αρμόδια Εφορεία Αρχαιοτήτων</label>
             <input required type="text" name="ephorate">
             <input name="submit" class="submitButton" value="Καταχώρηση" type="submit"></input>
         </form>
-        <h3>Όνομα φοιτητή</h3>
+        <h3>AM 1084492</h3>
         <div class="overlay"></div>
     </section>
 
