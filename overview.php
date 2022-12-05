@@ -75,7 +75,7 @@ $getLastId = $result->fetchColumn();
         <a href="./index.php">Πίσω στην Αρχική</a>
         <div class="overlay"></div>
     </section>
-    <h3>Όνομα φοιτητή</h3>
+    <h3>ΑΜ 1084492</h3>
 </body>
 
 </html>
